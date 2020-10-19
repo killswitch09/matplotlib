@@ -15,4 +15,5 @@ the `%matplotlib inline` will make your plot outputs appear and be stored within
 - Pyplot api (less flexible)
 - Object Oriented api (recommended)</br>
 Anatomy of a MAtplotlib Figure!!</br></br>
-<img src ="Anatomy.png">
+<img src ="matplotlib-anatomy-of-a-plot.png"></br>
+<img src ="matplotlib-anatomy-of-a-plot-with-code.png"></br>
