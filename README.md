@@ -10,4 +10,7 @@ Why Matplotlib?
 - `Simple` to use Interface!
 </br></br>
 initialise with `%matplotlib inline`.</br>
-the `%matplotlib inline` will make your plot outputs appear and be stored within the notebook.
+the `%matplotlib inline` will make your plot outputs appear and be stored within the notebook.</br>
+2 types
+- Pyplot api (less flexible)
+- Object Oriented api (recommended)
