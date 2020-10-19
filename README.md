@@ -13,4 +13,6 @@ initialise with `%matplotlib inline`.</br>
 the `%matplotlib inline` will make your plot outputs appear and be stored within the notebook.</br>
 2 types
 - Pyplot api (less flexible)
-- Object Oriented api (recommended)
+- Object Oriented api (recommended)</br>
+Anatomy of a MAtplotlib Figure!!</br></br>
+<img src ="Anatomy.png">
